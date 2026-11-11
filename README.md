@@ -1,5 +1,7 @@
 # Native Diagnostic Example
 
+<img src="media/icon.png" alt="Native Diagnostic Example icon" width="128" height="128">
+
 Developer example: checks the attached IL2CPP thread at startup.
 
 ## Install
