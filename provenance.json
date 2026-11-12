@@ -1,10 +1,21 @@
 {
   "schema": "mod-source-hashes/v1",
+  "source_sync": {
+    "workshop_revision": "ca32bbf79ce0840d5166a232bdb3a9fdcd761254",
+    "source_version": "0.1.0",
+    "payload_version": "0.1.0",
+    "compiled": false,
+    "gameplay_requalified": false,
+    "production_closure_complete": true,
+    "deferred_test_fixture_gaps": []
+  },
   "source_files": {
     "mods/example-native/mod.c": {
+      "source_sha256": "614cb7e9c2bf58fcb8f8c03aa7e36ffdd4444a0236fbaca90a043c296cd289b0",
       "export_sha256": "614cb7e9c2bf58fcb8f8c03aa7e36ffdd4444a0236fbaca90a043c296cd289b0"
     },
     "mods/example-native/mod.json": {
+      "source_sha256": "d5684c8635f3d0396057cb6c0fa257db34c082cb25d47996b3b9984ffd99f9db",
       "export_sha256": "d5684c8635f3d0396057cb6c0fa257db34c082cb25d47996b3b9984ffd99f9db"
     }
   }
